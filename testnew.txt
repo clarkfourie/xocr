@@ -1,0 +1,30 @@
+Passport /Passeport REPUBLIC OF SOUTH AFRICA/REPUBLIQUE DAFRIQUE DU SuD
+Type/ Type
+PA
+Sumame /Nom
+FOURIE
+Given names/ Prnoms
+GEORGE ARCHIBALD
+Nationality Nationalit
+Country code /Code du pays
+ZAF
+Passport iNo du passeport
+A06210362
+CLARK
+SOUTH AFRICAN SUD AFRICAIN
+Date of bith/Date de naissance
+05 FEB 1991
+Ser/ Sexe
+9102055039080
+23482
+Place of bith/Lieu de nissance
+ZAF
+Authonty /Autonit
+DEPT OF HOME AFFAIRS
+Holder's signature/Signature du titulaire
+Date of issue/ Date de dlivrance
+22 AUG 2017
+Date of expiry/Dale dexpiration
+21 AUG 2027
+A0621 03624ZAF9102055M270821891 02055039080<48
+Passport/PasseportREPUBLICOFSOUTHAFRICA/REPUBLIQUEDAFRIQUEDUSuDType/TypePASumame/NomFOURIEGivennames/PrnomsGEORGEARCHIBALDNationalityNationalitCountrycode/CodedupaysZAFPassportiNodupasseportA06210362CLARKSOUTHAFRICANSUDAFRICAINDateofbith/Datedenaissance05FEB1991Ser/Sexe910205503908023482Placeofbith/LieudenissanceZAFAuthonty/AutonitDEPTOFHOMEAFFAIRSHolder'ssignature/SignaturedutitulaireDateofissue/Datededlivrance22AUG2017Dateofexpiry/Daledexpiration21AUG2027A062103624ZAF9102055M27082189102055039080<48
